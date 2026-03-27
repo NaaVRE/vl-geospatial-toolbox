@@ -1,3 +1,3 @@
-# GeoSpatial Toolbox Virtual Lav
+# GeoSpatial Toolbox Virtual Lab
 
-_Virtual lab supporting the search, downloading, and manipulation of geospatial data, such as satellite imagery, and extracting such data to inform ecological workflows._
+_Virtual lab dedicated to develop tools (functions, pre-containerized cells) to search, download, extract, and manipulate geospatial data (especially satellite imagery), supporting ecological workflows and building Digital Twins of ecosystems, in the context of LTER-LIFE._
