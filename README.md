@@ -1,6 +1,3 @@
-# _virtual lab name_
-_abstract_
+# GeoSpatial Toolbox Virtual Lav
 
-### keywords
-- _keyword1_
-- _keyword2_
+_Virtual lab supporting the search, downloading, and manipulation of geospatial data, such as satellite imagery, and extracting such data to inform ecological workflows._
